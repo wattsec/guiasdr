@@ -6,5 +6,6 @@
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
     <string name="title_activity_ficha">FichaActivity</string>
+    <string name="title_activity_map_demo">MapDemoActivity</string>
 
 </resources>

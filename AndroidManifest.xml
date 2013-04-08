@@ -30,6 +30,10 @@
             android:name="com.cesine.ipn.guiasdr.FichaActivity"
             android:label="@string/title_activity_ficha" >
         </activity> 
+        <activity
+            android:name="com.cesine.ipn.guiasdr.MapDemoActivity"
+            android:label="@string/title_activity_map_demo" >
+        </activity>
     </application>
 
 </manifest>
